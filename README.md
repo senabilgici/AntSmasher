@@ -11,7 +11,7 @@ Nasıl Oynanır :  Karıncaya tıklandığında  ezilen karınca sayısı bir az
 oyunun tasarım ve yapımcısı ve nasıl oynandığı karşımıza çıkıyor.
 ![1](https://user-images.githubusercontent.com/58169359/86536537-25469580-bef1-11ea-878b-8a0e74575dcd.jpg)
 
-
+•	Start butonuna basıldığında ise oyunumuz karşımıza çıkıyor Rastgele üste doğru ilerleyen karıncalarımız var ve üstüne tıkladığımızda sağ üst köşede bulunan “score”umuz bir(1) artıyor.•	Üstüne tıklanmadığında siyah çember içerisine kadar ilerleyen karıncalar olduğunda oyun bitiyor ve bize “Game Over” mesajını ekrana çıkarıyor.
 <img width="303" alt="2" src="https://user-images.githubusercontent.com/58169359/86536575-68086d80-bef1-11ea-9709-5e67364716f7.png">
 
 
